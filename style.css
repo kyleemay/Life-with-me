@@ -2,3 +2,11 @@
   width: 750px;
   margin: 0 auto;
 }
+.photo {
+  width: 400px;
+  float:left;
+}
+.content {
+  width: 300px;
+  float: right;
+}
