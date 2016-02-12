@@ -10,3 +10,24 @@
   width: 300px;
   float: right;
 }
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  float: left;
+}
+.nav a:link, .nav a:visited {
+  font-weight: bold;
+  test-align: center;
+  text-decoration: none;
+  padding: 4px 0px;
+  color: .fff
+  background-color: #98bf21;
+  display: block;
+  width: 125px
+}
+.nav a:hover, .nav a:active {
+  background-color: #7a991a;
+}
