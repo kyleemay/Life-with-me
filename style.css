@@ -23,10 +23,10 @@
   test-align: center;
   text-decoration: none;
   padding: 4px 0px;
-  color: .fff
-  background-color: #98bf21;
+  color: #FF0000;
+  background-color: #00FFFF;
   display: block;
-  width: 125px
+  width: 125px;
 }
 .nav a:hover, .nav a:active {
   background-color: #7a991a;
