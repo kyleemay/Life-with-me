@@ -24,10 +24,10 @@
   text-decoration: none;
   padding: 4px 0px;
   color: #FF0000;
-  background-color: #00FFFF;
+  background-color: #98bf21;
   display: block;
   width: 125px;
 }
 .nav a:hover, .nav a:active {
-  background-color: #7a991a;
+  background-color: #00FFFF;
 }
